@@ -1,0 +1,46 @@
+[
+  {
+    "keys": ["super+0"],
+    "command": "reset_font_size"
+  },
+  {
+    "keys": ["super+shift+r"],
+    "command": "open_rspec_file"
+  },
+  {
+    "keys": ["super+shift+w"],
+    "command": "toggle_setting",
+    "args": { "setting": "word_wrap" }
+  },
+  {
+    "keys": ["super+shift+'"],
+    "command": "change_quotes"
+  },
+
+  // open this keybindings file
+  {
+    "keys": ["super+shift+,"],
+    "command": "open_file",
+    "args": { "file": "${packages}/User/Default ($platform).sublime-keymap" }
+  },
+  {
+    "keys": ["super+j"],
+    "command": "join_lines"
+  },
+  {
+    "keys": ["ctrl+super+r"],
+    "command": "reveal_in_side_bar"
+  },
+
+  // --- super+k commands ---
+  {
+    "keys": ["super+k", "super+s"],
+    "command": "sort_lines"
+  },
+  // requires InsertDate plugin (https://github.com/FichteFoll/sublimetext-insertdate)
+  {
+    "keys": ["super+k", "super+n"],
+    "command": "insert_date",
+    "args": { "format": "%Y-%m-%d" }
+  }
+]
