@@ -2,6 +2,7 @@
 	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"BracketHighlighter",
 		"ChangeQuotes",
 		"CoffeeScript",
 		"Dimmed Color Scheme",
@@ -10,6 +11,7 @@
 		"Package Control",
 		"QuickThemes",
 		"RSpec",
+		"Sass",
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"Theme - Aqua",
