@@ -9,6 +9,7 @@ You can learn more and download SublimeText here: [sublimetext.com](http://subli
 - [ChangeQuotes](https://github.com/colinta/SublimeChangeQuotes)
 - [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
 - [MarkDown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
+- [cucumber-sublime2-bundle](https://github.com/drewda/cucumber-sublime2-bundle)
 - [Nettuts+ Fetch](https://github.com/weslly/Nettuts-Fetch) ([intro](http://net.tutsplus.com/articles/news/introducing-nettuts-fetch/))
 
 
