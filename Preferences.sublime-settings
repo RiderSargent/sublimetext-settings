@@ -5,12 +5,12 @@
 	"draw_minimap_border": true,
 	"draw_white_space": "selection",
 	"find_selected_text": true,
-	"font_face": "Inconsolata",
+	"font_face": "Anonymous Pro",
 	"font_options":
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 16.0,
+	"font_size": 16,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -25,7 +25,7 @@
 	],
 	"show_tab_close_buttons": false,
 	"tab_size": 2,
-	"theme": "Default.sublime-theme",
+	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
 	"trim_trailing_white_space_on_save": true,
