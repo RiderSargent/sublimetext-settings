@@ -1,5 +1,6 @@
 {
 	"bold_folder_labels": true,
+	"close_windows_when_empty": true,
 	"color_scheme": "Packages/Theme - Aqua/Color Schemes/Tomorrow Night Aqua.tmTheme",
 	"drag_text": false,
 	"draw_minimap_border": true,
@@ -23,11 +24,13 @@
 		100,
 		120
 	],
+	"scroll_past_end": true,
+	"shift_tab_unindent": false,
 	"show_tab_close_buttons": false,
 	"tab_size": 2,
 	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"trim_automatic_white_space": true,
+	"trim_automatic_white_space": false,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true
 }
