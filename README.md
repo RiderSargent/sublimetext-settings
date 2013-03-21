@@ -11,6 +11,7 @@ You can learn more and download SublimeText here: [sublimetext.com](http://subli
 - [ChangeQuotes](https://github.com/colinta/SublimeChangeQuotes)
 - [Cucumber](https://github.com/drewda/cucumber-sublime2-bundle)
 - [FileDiffs](https://github.com/spape/SublimeFileDiffs)
+- [InsertDate](https://github.com/FichteFoll/sublimetext-insertdate)
 - [MarkDown Preview](https://github.com/revolunet/sublimetext-markdown-preview)
 - [Sass](https://github.com/nathos/sass-textmate-bundle)
 - [SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)
