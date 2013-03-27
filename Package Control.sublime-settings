@@ -7,15 +7,12 @@
 		"ChangeQuotes",
 		"CoffeeScript",
 		"Cucumber",
-		"Dimmed Color Scheme",
 		"FileDiffs",
 		"Indent XML",
 		"InsertDate",
 		"Jasmine",
 		"Markdown Preview",
-		"Nettuts+ Fetch",
 		"Package Control",
-		"PlainTasks",
 		"QuickThemes",
 		"RSpec",
 		"Sass",
@@ -24,7 +21,6 @@
 		"SublimeLinter",
 		"Theme - Aqua",
 		"Theme - Nexus",
-		"Theme - Refined",
 		"Theme - Soda"
 	]
 }
