@@ -25,7 +25,6 @@ You can learn more and download SublimeText here: [sublimetext.com](http://subli
 - [Theme - Soda](http://buymeasoda.github.com/soda-theme/)
 
 ### Interesting, but not installed Packages
-- []()
 - [IndentXML](https://github.com/alek-sys/sublimetext_indentxml)
 - [Mote](https://github.com/SublimeText/Mote)
 - [Nettuts+ Fetch](https://github.com/weslly/Nettuts-Fetch) ([intro](http://net.tutsplus.com/articles/news/introducing-nettuts-fetch/))
