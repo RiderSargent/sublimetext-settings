@@ -8,6 +8,7 @@
 		"CoffeeScript",
 		"Cucumber",
 		"FileDiffs",
+		"GitGutter",
 		"InsertDate",
 		"Jasmine",
 		"Markdown Preview",
@@ -17,6 +18,7 @@
 		"SideBarEnhancements",
 		"SublimeCodeIntel",
 		"SublimeLinter",
+		"Terminal",
 		"Theme - Aqua",
 		"Theme - Nexus",
 		"Theme - Soda"
