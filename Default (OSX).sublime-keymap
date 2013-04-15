@@ -12,6 +12,10 @@
     "keys": ["super+shift+r"],
     "command": "open_rspec_file"
   },
+  { // reclaiming binding overwritten by terminal package (http://wbond.net/sublime_packages/terminal)
+    "keys": ["super+shift+t"],
+    "command": "reopen_last_file"
+  },
   {
     "keys": ["super+shift+w"],
     "command": "toggle_setting",
@@ -20,11 +24,6 @@
   {
     "keys": ["super+shift+'"],
     "command": "change_quotes"
-  },
-  { // requires InsertDate plugin (https://github.com/FichteFoll/sublimetext-insertdate)
-    "keys": ["super+k", "super+n"],
-    "command": "insert_date",
-    "args": { "format": "%Y-%m-%d" }
   },
   { // open this keybindings file
     "keys": ["super+shift+,"],
@@ -40,6 +39,11 @@
   {
     "keys": ["super+k", "super+m"],
     "command": "toggle_minimap"
+  },
+  { // requires InsertDate plugin (https://github.com/FichteFoll/sublimetext-insertdate)
+    "keys": ["super+k", "super+n"],
+    "command": "insert_date",
+    "args": { "format": "%Y-%m-%d" }
   },
   {
     "keys": ["super+k", "super+r"],
