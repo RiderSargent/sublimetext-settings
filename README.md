@@ -25,6 +25,7 @@ You can learn more and download SublimeText here: [sublimetext.com](http://subli
 - [Sublime Terminal](https://github.com/wbond/sublime_terminal)
 - [Theme - Aqua](https://github.com/cafarm/aqua-theme)
 - [Theme - Nexus](https://github.com/EleazarCrusader/nexus-theme)
+- [Theme - Phoenix](https://github.com/netatoo/phoenix-theme)
 - [Theme - Soda](http://buymeasoda.github.com/soda-theme/)
 
 ### Interesting, but not installed Packages
