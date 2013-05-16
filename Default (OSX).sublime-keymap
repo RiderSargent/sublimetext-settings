@@ -5,8 +5,22 @@
     "args": {"panel": "replace"}
   },
   {
+    "keys": ["super+j"],
+    "command": "join_lines"
+  },
+  {
     "keys": ["super+0"],
     "command": "reset_font_size"
+  },
+  {
+    "keys": ["super+shift+backspace"],
+    "command": "run_macro_file",
+    "args": { "file": "Packages/Default/Delete Line.sublime-macro" }
+  },
+  {
+    "keys": ["super+shift+k"],
+    "command": "run_macro_file",
+    "args": { "file": "Packages/Default/Delete Line.sublime-macro" }
   },
   {
     "keys": ["super+shift+r"],
