@@ -1,8 +1,29 @@
 {
-  "sublimelinter_executable_map":
-  {
+  "jshint_options": {
+    "browser": true,
+    "curly": true,
+    "devel": false,
+    "eqeqeq": true,
+    "forin": true,
+    "jquery": true,
+    "latedef": true,
+    "maxlen": 80,
+    "maxstatements": 10,
+    "noarg": true,
+    "noempty": true,
+    "nonew": true,
+    "nonstandard": false,
+    "quotmark": true,
+    "trailing": true,
+    "undef": true,
+    "unused": true
+  },
+  "sublimelinter_executable_map": {
+    "jshint": "jshint",
     "ruby": "/Users/rider/.rbenv/shims/ruby"
   },
   "sublimelinter_gutter_marks": true,
   "sublimelinter_mark_style": "none"
 }
+
+
