@@ -5,25 +5,43 @@
     "devel": false,
     "eqeqeq": true,
     "forin": true,
+    "globals": {
+      "alert": true,
+      "console": true,
+      "Coreisma": true,
+      "core": true,
+      "describe": true,
+      "expect": true,
+      "interview": true,
+      "it": true,
+      "opera": true,
+      "phantom": true,
+      "require": true
+    },
+    // "indent": 2,
     "jquery": true,
     "latedef": true,
-    "maxlen": 80,
-    "maxstatements": 10,
+    // "maxlen": 80,
+    // "maxstatements": 10,
     "noarg": true,
     "noempty": true,
     "nonew": true,
     "nonstandard": false,
-    "quotmark": true,
+    // "quotmark": true,
     "trailing": true,
     "undef": true,
     "unused": true
+  },
+  "sublimelinter": "load-save",
+  "sublimelinter_delay": 5,
+  "sublimelinter_syntax_map": {
+    "JavaScript (Rails)": "javascript"
   },
   "sublimelinter_executable_map": {
     "jshint": "jshint",
     "ruby": "/Users/rider/.rbenv/shims/ruby"
   },
   "sublimelinter_gutter_marks": true,
+  "sublimelinter_gutter_marks_theme": "bright", // options are: "alpha", "bright", "dark", "hard" and "simple"
   "sublimelinter_mark_style": "none"
 }
-
-

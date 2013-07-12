@@ -1,0 +1,15 @@
+<snippet>
+  <content><![CDATA[
+var ${1:moduleName} = (function() {
+  var ${2:privateFunctionName} = function() {  };
+
+  var ${3:publicFunctionName} = function() { ${0} };
+
+  return {
+    ${3:publicFunctionName}: ${3:publicFunctionName}
+  };
+})();
+]]></content>
+  <tabTrigger>revm</tabTrigger>
+  <scope>source.js</scope>
+</snippet>

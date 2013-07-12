@@ -2,7 +2,7 @@
   { // overwrite find to show find and replace panel
     "keys": ["super+f"],
     "command": "show_panel",
-    "args": {"panel": "replace"}
+    "args": { "panel": "replace" }
   },
   {
     "keys": ["super+j"],
@@ -62,10 +62,19 @@
   {
     "keys": ["super+k", "super+r"],
     "command": "reindent",
-    "args": {"single_line": false}
+    "args": { "single_line": false }
   },
   {
     "keys": ["super+k", "super+s"],
     "command": "sort_lines"
+  },
+  {
+    "keys": ["super+k", "super+v"],
+    "command": "insert", "args": { "characters": "✓" }
+  },
+  { // included as an example of a snippet hot key
+    "keys": ["ctrl+o"],
+    "command": "insert_snippet",
+    "args": { "contents": "$0\n" }
   }
 ]

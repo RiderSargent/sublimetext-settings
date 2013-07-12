@@ -19,8 +19,8 @@
 	[
 		"Vintage"
 	],
-	"line_padding_bottom": 2,
-	"line_padding_top": 0,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
 	"phoenix_color_expanded_folder": true,
 	"phoenix_color_green": true,
 	"phoenix_dirty_bottom_bar_orange": true,
