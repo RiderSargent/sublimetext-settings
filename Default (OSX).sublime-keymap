@@ -1,5 +1,6 @@
 [
-  { // overwrite find to show find and replace panel
+  // overwrite find to show find and replace panel
+  {
     "keys": ["super+f"],
     "command": "show_panel",
     "args": { "panel": "replace" }
@@ -26,7 +27,8 @@
     "keys": ["super+shift+r"],
     "command": "open_rspec_file"
   },
-  { // reclaiming binding overwritten by terminal package (http://wbond.net/sublime_packages/terminal)
+  // reclaiming binding overwritten by terminal package (http://wbond.net/sublime_packages/terminal)
+  {
     "keys": ["super+shift+t"],
     "command": "reopen_last_file"
   },
@@ -39,7 +41,8 @@
     "keys": ["super+shift+'"],
     "command": "change_quotes"
   },
-  { // open this keybindings file
+  // open this keybindings file
+  {
     "keys": ["super+shift+,"],
     "command": "open_file",
     "args": { "file": "${packages}/User/Default ($platform).sublime-keymap" }
@@ -54,7 +57,8 @@
     "keys": ["super+k", "super+m"],
     "command": "toggle_minimap"
   },
-  { // requires InsertDate plugin (https://github.com/FichteFoll/sublimetext-insertdate)
+  // requires InsertDate plugin (https://github.com/FichteFoll/sublimetext-insertdate)
+  {
     "keys": ["super+k", "super+n"],
     "command": "insert_date",
     "args": { "format": "%Y-%m-%d" }
@@ -72,9 +76,38 @@
     "keys": ["super+k", "super+v"],
     "command": "insert", "args": { "characters": "✓" }
   },
-  { // included as an example of a snippet hot key
+  // included as an example of a snippet hot key
+  {
     "keys": ["ctrl+o"],
     "command": "insert_snippet",
     "args": { "contents": "$0\n" }
+  },
+  // Fix End of line
+  {
+    "keys": ["super+right"],
+    "command": "move_to",
+    "args": {"to": "hardeol", "extend": false}
+  },
+  // Fix Beginning of line
+  {
+    "keys": ["super+left"],
+    "command": "move_to",
+    "args": {"to": "hardbol", "extend": false}
+  },
+  // Fix end of line + select
+  {
+    "keys": ["super+shift+right"],
+    "command": "move_to",
+    "args": {"to": "hardeol", "extend": true}
+  },
+  // Fix beginning of line + select
+  {
+    "keys": ["super+shift+left"],
+    "command": "move_to",
+    "args": {"to": "hardbol", "extend": true}
+  },
+  {
+    "keys": ["super+shift+r"],
+    "command": "reindent"
   }
 ]

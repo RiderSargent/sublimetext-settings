@@ -1,7 +1,8 @@
 {
 	"bold_folder_labels": true,
+	"caret_style": "phase",
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/Theme - Aqua/Color Schemes/Tomorrow Aqua.tmTheme",
+	"color_scheme": "Packages/User/Color Schemes/Tomorrow Night Aqua - Custom.tmTheme",
 	"drag_text": false,
 	"draw_minimap_border": true,
 	"draw_white_space": "selection",
@@ -12,7 +13,7 @@
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 15.0,
+	"font_size": 20.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
@@ -22,6 +23,7 @@
 	],
 	"line_padding_bottom": 1,
 	"line_padding_top": 1,
+	"phoenix_color_darkblue": true,
 	"preview_on_click": false,
 	"rulers":
 	[
@@ -32,12 +34,11 @@
 	"show_full_path": true,
 	"show_tab_close_buttons": false,
 	"tab_size": 2,
-	"theme": "AppKit.sublime-theme",
+	"theme": "Phoenix Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": false,
 	"trim_trailing_white_space_on_save": true,
-	"use_simple_full_screen": true,
+	"use_simple_full_screen": false,
 	"wide_caret": true,
-	"word_wrap": true,
-	"wrap_width": 100
+	"word_wrap": true
 }

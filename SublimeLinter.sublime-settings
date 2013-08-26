@@ -16,7 +16,8 @@
       "it": true,
       "opera": true,
       "phantom": true,
-      "require": true
+      "require": true,
+      "Reveal": true
     },
     // "indent": 2,
     "jquery": true,
